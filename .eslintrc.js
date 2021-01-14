@@ -82,6 +82,11 @@ module.exports = {
     'import/no-unresolved': 'off',
     'import/no-extraneous-dependencies': 'off',
     'prefer-promise-reject-errors': 'off',
+    'space-before-function-paren': "off",
+    'no-undef': "off",
+    '@typescript-eslint/no-floating-promises': "off",
+    '@typescript-eslint/no-explicit-any': "off",
+    '@typescript-eslint/ban-ts-comment': "off",
 
     // TypeScript
     quotes: ['warn', 'single', { avoidEscape: true }],

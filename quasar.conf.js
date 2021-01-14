@@ -199,7 +199,7 @@ module.exports = configure(function (ctx) {
       nodeIntegration: true,
 
       extendWebpack (/* cfg */) {
-        // do something with Electron main process Webpack cfg
+        // do something ToolbarButtonwith Electron main process Webpack cfg
         // chainWebpack also available besides this extendWebpack
       }
     }
